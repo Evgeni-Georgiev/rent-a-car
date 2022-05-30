@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "_id": "629238a9ff6ee7bceedefe09",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Rebecca Castaneda",
+      "email": "rebeccacastaneda@shopabout.com",
+      "phone": "+1 (953) 498-3637",
+      "address": "168 Terrace Place, Ernstville, North Dakota, 2061"
+    },
+    {
+      "_id": "629238a96a00f928675545f1",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Frazier Weeks",
+      "email": "frazierweeks@shopabout.com",
+      "phone": "+1 (918) 441-2483",
+      "address": "623 Fuller Place, Efland, Illinois, 9549"
+    },
+    {
+      "_id": "629238a91eeb87e0964b6ca4",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Navarro Mason",
+      "email": "navarromason@shopabout.com",
+      "phone": "+1 (952) 468-2931",
+      "address": "389 Harrison Avenue, Albrightsville, Idaho, 2913"
+    },
+    {
+      "_id": "629238a92a1447b84d1b7b13",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Shari Mcintyre",
+      "email": "sharimcintyre@shopabout.com",
+      "phone": "+1 (948) 445-2601",
+      "address": "954 Anchorage Place, Westphalia, Mississippi, 250"
+    },
+    {
+      "_id": "629238a920a78f9037fb87cc",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Joyner Rush",
+      "email": "joynerrush@shopabout.com",
+      "phone": "+1 (848) 435-3317",
+      "address": "482 Meserole Avenue, Cliffside, Massachusetts, 2775"
+    }
+  ],
+  "cars": [],
+  "status": []
+}
