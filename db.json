@@ -1,0 +1,131 @@
+{
+  "customers": [
+    {
+      "id": 0,
+      "name": "John hehehehe",
+      "imgSrc": "https://images.unsplash.com/photo-1642599222043-c60ccf781b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym95fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 1,
+      "name": "Hillary Doe",
+      "imgSrc": "https://images.unsplash.com/photo-1642599222043-c60ccf781b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym95fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Humpty Dumpty",
+      "imgSrc": "https://images.unsplash.com/photo-1642599222043-c60ccf781b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym95fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Shrek",
+      "imgSrc": "https://images.unsplash.com/photo-1642599222043-c60ccf781b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym95fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Fionna Shrek",
+      "imgSrc": "https://images.unsplash.com/photo-1642599222043-c60ccf781b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym95fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "VehicleTypes": [
+    {
+      "id": 0,
+      "type": "Economy"
+    },
+    {
+      "id": 1,
+      "type": "Estate"
+    },
+    {
+      "id": 2,
+      "type": "SUV"
+    },
+    {
+      "id": 3,
+      "type": "Cargo"
+    },
+    {
+      "id": 3,
+      "type": "Luxury"
+    }
+  ],
+  "fuelTypes": [
+    {
+      "id": 0,
+      "type": "petrol"
+    },
+    {
+      "id": 1,
+      "type": "diesel"
+    },
+    {
+      "id": 3,
+      "type": "electric"
+    },
+    {
+      "id": 4,
+      "type": "hybrid"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 0,
+      "brand": "SomeBrand",
+      "model": "SomeModel",
+      "constructionYear": 2010,
+      "fuelType": 0,
+      "vehicleType": 0,
+      "numberOfSeats": 4,
+      "pricePerDay": 10,
+      "count": 20,
+      "picture": "https://images.unsplash.com/photo-1626745844804-bf833f5838e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 1,
+      "brand": "SomeCoolBrand",
+      "model": "SomeCoolModel",
+      "constructionYear": 2016,
+      "fuelType": 1,
+      "vehicleType": 1,
+      "numberOfSeats": 3,
+      "pricePerDay": 20,
+      "count": 50,
+      "picture": "https://images.unsplash.com/photo-1626745844804-bf833f5838e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "brand": "SomeCoolBrand",
+      "model": "SomeCoolModel",
+      "constructionYear": 2009,
+      "fuelType": 3,
+      "vehicleType": 3,
+      "numberOfSeats": 2,
+      "pricePerDay": 100,
+      "count": 2,
+      "picture": "https://images.unsplash.com/photo-1626745844804-bf833f5838e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "brand": "BMW",
+      "model": "zxczxc",
+      "picture": "https://images.unsplash.com/photo-1654859342606-92b2517c4289?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "constructionYear": "123",
+      "pricePerDay": "2",
+      "fuelType": "0",
+      "vehicleType": "0",
+      "id": 4
+    }
+  ],
+  "rentalEvents": [
+    {
+      "startDate": "01/01/2022",
+      "endDate": "07/07/2022",
+      "customer": 0,
+      "vehicle": 3
+    },
+    {
+      "startDate": "01/06/2022",
+      "endDate": "07/09/2022",
+      "customer": 3,
+      "vehicle": 3
+    }
+  ]
+}
